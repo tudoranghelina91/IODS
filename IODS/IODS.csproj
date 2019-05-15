@@ -44,6 +44,8 @@
     <Compile Include="Class1.cs" />
     <Compile Include="DataStructures\Queue.cs" />
     <Compile Include="DataStructures\QueueItem.cs" />
+    <Compile Include="DataStructures\Stack.cs" />
+    <Compile Include="DataStructures\StackItem.cs" />
     <Compile Include="Handlers\InputHandling.cs" />
     <Compile Include="Handlers\OutputHandling.cs" />
     <Compile Include="Handlers\ProgramFlowHandling.cs" />

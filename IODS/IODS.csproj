@@ -46,8 +46,8 @@
     <Compile Include="Handlers\OutputHandling.cs" />
     <Compile Include="Handlers\ProgramFlowHandling.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SinglyLinkedList.cs" />
-    <Compile Include="SinglyLinkedListNode.cs" />
+    <Compile Include="DataStructures\SinglyLinkedList.cs" />
+    <Compile Include="DataStructures\SinglyLinkedListNode.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Wantsome_Week_04.Handlers
+namespace IODS.Handlers
 {
     public class OutputHandling
     {

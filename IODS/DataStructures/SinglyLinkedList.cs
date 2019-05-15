@@ -1,4 +1,4 @@
-﻿namespace Wantsome_Week_04
+﻿namespace IODS
 {
     public class SinglyLinkedList
     {

@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DataStructures\Queue.cs" />
+    <Compile Include="DataStructures\QueueItem.cs" />
     <Compile Include="Handlers\InputHandling.cs" />
     <Compile Include="Handlers\OutputHandling.cs" />
     <Compile Include="Handlers\ProgramFlowHandling.cs" />

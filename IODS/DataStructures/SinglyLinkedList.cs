@@ -1,4 +1,4 @@
-﻿namespace IODS
+﻿namespace IODS.DataStructures
 {
     public class SinglyLinkedList
     {
